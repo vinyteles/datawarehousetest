@@ -1,0 +1,8 @@
+{
+  "defaultSchema": "dataform",
+  "assertionSchema": "dataform_assertions",
+  "warehouse": "bigquery",
+  "defaultDatabase": "grand-sweep-400619",
+  "defaultLocation": "southamerica-east1"
+}
+    
